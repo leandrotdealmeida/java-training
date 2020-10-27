@@ -1,0 +1,22 @@
+package br.com.java.javacore.Npolimorfismo.tests;
+
+import br.com.java.javacore.Npolimorfismo.classes.ArquivoDAOImpl;
+import br.com.java.javacore.Npolimorfismo.classes.GenericDAO;
+
+import java.util.LinkedList;
+import java.util.List;
+
+public class DAOTest {
+    public static void main(String[] args) {
+        GenericDAO arquivoDAO = new ArquivoDAOImpl();
+        arquivoDAO.save();
+        List<String> lista = new LinkedList<>();
+        lista.add("Nome1");
+        lista.add("Nome2");
+        lista.add("Nome3");
+        lista.add("Nome4");
+        for(String nome : lista){
+            System.out.println(nome);
+        }
+    }
+}
