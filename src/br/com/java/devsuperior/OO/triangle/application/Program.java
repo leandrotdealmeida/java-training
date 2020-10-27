@@ -24,10 +24,7 @@ public class Program {
         triangleY.b = sc.nextDouble();
         triangleY.c = sc.nextDouble();
 
-        double p = triangleX.calculaMedia();
         double areaX = triangleX.calculaArea();
-
-        p = triangleY.calculaMedia();
         double areaY = triangleY.calculaArea();
 
         System.out.printf("Triangle X area: %.4f%n", areaX);

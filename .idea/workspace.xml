@@ -69,7 +69,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OptionalTest2">
+  <component name="RunManager" selected="Application.ProductTest">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -211,14 +211,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InterfaceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.java.javacore.ZZIdefault.classes.InterfaceTest" />
-      <module name="ExerciciosDevDojo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="OptionalTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.java.javacore.ZZJOptional.test.OptionalTest1" />
       <module name="ExerciciosDevDojo" />
@@ -229,6 +221,14 @@
     </configuration>
     <configuration name="OptionalTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.java.javacore.ZZJOptional.test.OptionalTest2" />
+      <module name="ExerciciosDevDojo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.java.devsuperior.OO.estoque.application.ProductTest" />
       <module name="ExerciciosDevDojo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -286,19 +286,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.InterfaceTest" />
       <item itemvalue="Application.C" />
       <item itemvalue="Application.Program" />
       <item itemvalue="Application.OptionalTest1" />
       <item itemvalue="Application.OptionalTest2" />
+      <item itemvalue="Application.ProductTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProductTest" />
+        <item itemvalue="Application.Program" />
         <item itemvalue="Application.OptionalTest2" />
         <item itemvalue="Application.OptionalTest1" />
-        <item itemvalue="Application.Program" />
         <item itemvalue="Application.C" />
-        <item itemvalue="Application.InterfaceTest" />
       </list>
     </recent_temporary>
   </component>
