@@ -69,7 +69,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ProductTest">
+  <component name="RunManager" selected="Application.OptionalTest2">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -294,9 +294,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OptionalTest2" />
         <item itemvalue="Application.ProductTest" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.OptionalTest2" />
         <item itemvalue="Application.OptionalTest1" />
         <item itemvalue="Application.C" />
       </list>

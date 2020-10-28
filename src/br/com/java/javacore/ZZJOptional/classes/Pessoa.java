@@ -5,6 +5,7 @@ import java.util.Optional;
 public class Pessoa {
     private Carro carro;
     private String name;
+    private int idade;
 
     public Pessoa(Carro carro, String name) {
         this.carro = carro;
@@ -26,5 +27,13 @@ public class Pessoa {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    public int getIdade() {
+        return idade;
+    }
+
+    public void setIdade(int idade) {
+        this.idade = idade;
     }
 }
