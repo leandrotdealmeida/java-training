@@ -36,7 +36,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -69,7 +69,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OptionalTest2">
+  <component name="RunManager" selected="Application.App">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -203,16 +203,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.java.javacore.ZZIdefault.classes.C" />
-      <module name="ExerciciosDevDojo" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OptionalTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.java.javacore.ZZJOptional.test.OptionalTest1" />
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.java.padroesdeprojeto.aSingleton.App" />
       <module name="ExerciciosDevDojo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -237,6 +229,14 @@
     </configuration>
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.java.devsuperior.OO.triangle.application.Program" />
+      <module name="ExerciciosDevDojo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.java.javacore.ZZKstreams.tests.StreamTest" />
       <module name="ExerciciosDevDojo" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -286,19 +286,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.C" />
       <item itemvalue="Application.Program" />
-      <item itemvalue="Application.OptionalTest1" />
       <item itemvalue="Application.OptionalTest2" />
       <item itemvalue="Application.ProductTest" />
+      <item itemvalue="Application.StreamTest" />
+      <item itemvalue="Application.App" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.StreamTest" />
         <item itemvalue="Application.OptionalTest2" />
         <item itemvalue="Application.ProductTest" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.OptionalTest1" />
-        <item itemvalue="Application.C" />
       </list>
     </recent_temporary>
   </component>
