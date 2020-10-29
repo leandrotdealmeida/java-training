@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="arquivo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pasta/subpasta/arquivo.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
