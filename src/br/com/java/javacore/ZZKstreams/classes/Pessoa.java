@@ -1,6 +1,7 @@
 package br.com.java.javacore.ZZKstreams.classes;
 
 import java.util.List;
+import java.util.Objects;
 
 import static java.util.Arrays.asList;
 
@@ -19,7 +20,8 @@ public class Pessoa {
     public static List<Pessoa> bancoDePessoas() {
         return asList(
                 new Pessoa("Dev Japa", 22, 8000),
-                new Pessoa("Dev Leandro", 28, 3000),
+                new Pessoa("Dev Leandro", 22, 3000),
+                new Pessoa("Dev Leandro", 22, 3000),
                 new Pessoa("Dev Almeida", 24, 4000),
                 new Pessoa("Dev Trovilho", 21, 9060),
                 new Pessoa("Dev Hulk", 35, 7200),
@@ -60,5 +62,18 @@ public class Pessoa {
                 ", idade=" + idade +
                 ", salario=" + salario +
                 '}';
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Pessoa pessoa = (Pessoa) o;
+        return Objects.equals(nome, pessoa.nome);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(nome);
     }
 }
