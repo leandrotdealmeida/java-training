@@ -16,7 +16,7 @@ public class StreamTest3 {
         pessoas.stream().filter(p -> p.getIdade() < 25)
                 .findAny()
                 .ifPresent(p -> System.out.println(p.getNome()));
-        
+
         pessoas.stream()
                 .filter(p -> p.getIdade() > 30)
                 .sorted(Comparator.comparing(Pessoa::getIdade).reversed())

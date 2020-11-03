@@ -1025,6 +1025,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -1042,11 +1043,17 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/br/com/java/padroesdeprojeto/cAbstractFactory" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.java.padroesdeprojeto.cAbstractFactory.impl" />
+      <recent name="br.com.java.padroesdeprojeto.cAbstractFactory" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\leand\Documents\IdeaProjects\java-training\src\br\com\java\padroesdeprojeto\cAbstractFactory" />
+      <recent name="C:\Users\leand\Documents\IdeaProjects\java-training\src\br\com\java\padroesdeprojeto" />
       <recent name="C:\Users\leand\Documents\IdeaProjects\java-training\src\br\com\java\padroesdeprojeto\bFactory" />
     </key>
   </component>
@@ -1062,7 +1069,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StreamTest3">
+  <component name="RunManager" selected="Application.App">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -1070,6 +1077,13 @@
         </value>
       </option>
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.java.padroesdeprojeto.cAbstractFactory.App" />
+      <module name="java-training" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -1113,13 +1127,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.java.javacore.ZZKstreams.tests.StreamTest" />
-      <module name="java-training" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StreamTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.java.javacore.ZZKstreams.tests.StreamTest3" />
       <module name="java-training" />
@@ -1129,11 +1136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
         <item itemvalue="Application.StreamTest3" />
         <item itemvalue="Application.Java8MessageTester" />
         <item itemvalue="Application.Java8MathTester" />
         <item itemvalue="Application.Java8SortTester" />
-        <item itemvalue="Application.StreamTest" />
       </list>
     </recent_temporary>
   </component>
