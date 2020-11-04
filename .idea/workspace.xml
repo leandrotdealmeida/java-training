@@ -1017,6 +1017,7 @@
       <change beforePath="$PROJECT_DIR$/src/messages_pt_BR.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/messages_pt_BR.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -1043,6 +1044,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/br/com/java/padroesdeprojeto/cAbstractFactory" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
@@ -1069,7 +1071,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.Sort">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -1088,19 +1090,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java8MathTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.java.java8.tutorialpoint.tests.Java8MathTester" />
-      <module name="java-training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.java.java8.tutorialpoint.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Java8MessageTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.java.java8.tutorialpoint.tests.Java8MessageTester" />
       <module name="java-training" />
@@ -1114,15 +1103,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Java8SortTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.java.java8.tutorialpoint.tests.Java8SortTester" />
+    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.java.judgeonline.Sort" />
       <module name="java-training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.java.java8.tutorialpoint.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -1134,13 +1117,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StreamTest4Reduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.java.javacore.ZZKstreams.tests.StreamTest4Reduce" />
+      <module name="java-training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sort" />
+        <item itemvalue="Application.StreamTest4Reduce" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.StreamTest3" />
         <item itemvalue="Application.Java8MessageTester" />
-        <item itemvalue="Application.Java8MathTester" />
-        <item itemvalue="Application.Java8SortTester" />
       </list>
     </recent_temporary>
   </component>
