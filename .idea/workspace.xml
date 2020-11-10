@@ -21,6 +21,11 @@
   <component name="ChangeListManager">
     <list default="true" id="9e3b73d1-3c54-43f5-a1b9-9b344dd6146b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/out/production/java-training/br/com/java/javacore/ZZKstreams/tests/StreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-training/br/com/java/javacore/ZZKstreams/tests/StreamTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/java/javacore/ZZKstreams/tests/StreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/java/javacore/ZZKstreams/tests/StreamTest.java" afterDir="false" />
+>>>>>>> 1334d0fa794c05cc00c4079910091cec02ef552f
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +40,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="main" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -73,6 +81,11 @@
       <recent name="C:\Users\leand\Documents\IdeaProjects\java-training\src\br\com\java\padroesdeprojeto\bFactory" />
     </key>
   </component>
+<<<<<<< HEAD
+  <component name="RunManager" selected="Application.StreamTest2">
+    <configuration name="Java8MathTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.java.java8.tutorialpoint.tests.Java8MathTester" />
+=======
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -101,6 +114,7 @@
     </configuration>
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.java.padroesdeprojeto.cAbstractFactory.App" />
+>>>>>>> 6abf0f7a93e4e1a39aed12af594fd4e5c2f5af91
       <module name="java-training" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -120,9 +134,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
+    <configuration name="StreamTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.java.javacore.ZZKstreams.tests.StreamTest2" />
+      <module name="java-training" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.java.javacore.ZZKstreams.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+=======
     <configuration name="StreamTest4Reduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.java.javacore.ZZKstreams.tests.StreamTest4Reduce" />
       <module name="java-training" />
+>>>>>>> 6abf0f7a93e4e1a39aed12af594fd4e5c2f5af91
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -136,11 +162,26 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Application.StreamTest5GerandoStreams" />
+=======
+<<<<<<< HEAD
+        <item itemvalue="Application.StreamTest2" />
+        <item itemvalue="Application.StreamTest" />
+        <item itemvalue="Application.Java8MessageTester" />
+        <item itemvalue="Application.Java8MathTester" />
+        <item itemvalue="Application.Java8SortTester" />
+=======
+>>>>>>> 1334d0fa794c05cc00c4079910091cec02ef552f
         <item itemvalue="Application.Sort" />
         <item itemvalue="Application.StreamTest4Reduce" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.StreamTest3" />
+<<<<<<< HEAD
+=======
+        <item itemvalue="Application.Java8MessageTester" />
+>>>>>>> 6abf0f7a93e4e1a39aed12af594fd4e5c2f5af91
+>>>>>>> 1334d0fa794c05cc00c4079910091cec02ef552f
       </list>
     </recent_temporary>
   </component>
@@ -152,8 +193,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604100090239</updated>
+<<<<<<< HEAD
       <workItem from="1604100093539" duration="2239000" />
       <workItem from="1604603178436" duration="2004000" />
+=======
+      <workItem from="1604100093539" duration="2285000" />
+      <workItem from="1604150178567" duration="2042000" />
+      <workItem from="1604171163699" duration="464000" />
+>>>>>>> 1334d0fa794c05cc00c4079910091cec02ef552f
     </task>
     <servers />
   </component>
@@ -172,36 +219,49 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< HEAD
     <state x="163" y="0" key="#Project_Structure" timestamp="1604603207236">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="#Project_Structure/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1604603207236" />
     <state x="466" y="159" width="424" height="478" key="FileChooserDialogImpl" timestamp="1604100143809">
+=======
+    <state x="466" y="159" width="424" height="478" key="FileChooserDialogImpl" timestamp="1604171674854">
       <screen x="0" y="38" width="1366" height="768" />
     </state>
-    <state x="466" y="159" width="424" height="478" key="FileChooserDialogImpl/0.38.1366.768/1366.0.1280.720@0.38.1366.768" timestamp="1604100143809" />
-    <state width="1324" height="174" key="GridCell.Tab.0.bottom" timestamp="1604101775753">
+    <state x="466" y="159" width="424" height="478" key="FileChooserDialogImpl/0.38.1366.768/1366.0.1280.720@0.38.1366.768" timestamp="1604171674854" />
+    <state width="1324" height="174" key="GridCell.Tab.0.bottom" timestamp="1604156086104">
+>>>>>>> 1334d0fa794c05cc00c4079910091cec02ef552f
       <screen x="0" y="38" width="1366" height="768" />
     </state>
-    <state width="1324" height="174" key="GridCell.Tab.0.bottom/0.38.1366.768/1366.0.1280.720@0.38.1366.768" timestamp="1604101775753" />
-    <state width="1324" height="174" key="GridCell.Tab.0.center" timestamp="1604101775752">
+    <state width="1324" height="174" key="GridCell.Tab.0.bottom/0.38.1366.768/1366.0.1280.720@0.38.1366.768" timestamp="1604156086104" />
+    <state width="1324" height="174" key="GridCell.Tab.0.center" timestamp="1604156086104">
       <screen x="0" y="38" width="1366" height="768" />
     </state>
-    <state width="1324" height="174" key="GridCell.Tab.0.center/0.38.1366.768/1366.0.1280.720@0.38.1366.768" timestamp="1604101775752" />
-    <state width="1324" height="174" key="GridCell.Tab.0.left" timestamp="1604101775752">
+    <state width="1324" height="174" key="GridCell.Tab.0.center/0.38.1366.768/1366.0.1280.720@0.38.1366.768" timestamp="1604156086104" />
+    <state width="1324" height="174" key="GridCell.Tab.0.left" timestamp="1604156086104">
       <screen x="0" y="38" width="1366" height="768" />
     </state>
-    <state width="1324" height="174" key="GridCell.Tab.0.left/0.38.1366.768/1366.0.1280.720@0.38.1366.768" timestamp="1604101775752" />
-    <state width="1324" height="174" key="GridCell.Tab.0.right" timestamp="1604101775752">
+    <state width="1324" height="174" key="GridCell.Tab.0.left/0.38.1366.768/1366.0.1280.720@0.38.1366.768" timestamp="1604156086104" />
+    <state width="1324" height="174" key="GridCell.Tab.0.right" timestamp="1604156086104">
       <screen x="0" y="38" width="1366" height="768" />
     </state>
+    <state width="1324" height="174" key="GridCell.Tab.0.right/0.38.1366.768/1366.0.1280.720@0.38.1366.768" timestamp="1604156086104" />
+    <state x="321" y="149" width="713" height="497" key="NewModule_or_Project.wizard" timestamp="1604171677104">
+      <screen x="0" y="38" width="1366" height="768" />
+    </state>
+<<<<<<< HEAD
     <state width="1324" height="174" key="GridCell.Tab.0.right/0.38.1366.768/1366.0.1280.720@0.38.1366.768" timestamp="1604101775752" />
     <state x="389" y="97" width="587" height="534" key="find.popup" timestamp="1604609345832">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="389" y="97" width="587" height="534" key="find.popup/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1604609345832" />
+=======
+    <state x="321" y="149" width="713" height="497" key="NewModule_or_Project.wizard/0.38.1366.768/1366.0.1280.720@0.38.1366.768" timestamp="1604171677104" />
+>>>>>>> 1334d0fa794c05cc00c4079910091cec02ef552f
     <state x="347" y="179" key="run.anything.popup" timestamp="1604100531801">
       <screen x="0" y="38" width="1366" height="768" />
     </state>
