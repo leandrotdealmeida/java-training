@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e3b73d1-3c54-43f5-a1b9-9b344dd6146b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-<<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/out/production/java-training/br/com/java/javacore/ZZKstreams/tests/StreamTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-training/br/com/java/javacore/ZZKstreams/tests/StreamTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/java/javacore/ZZKstreams/tests/StreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/java/javacore/ZZKstreams/tests/StreamTest.java" afterDir="false" />
-=======
->>>>>>> 2c4b2cd0dfe8b45c3b39a8e19ed17f0e6793887d
-    </list>
+    <list default="true" id="3d8c296b-580f-4314-8e42-adf2acf9c439" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,55 +12,12 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="Git.Pull.Settings">
-    <option name="BRANCH" value="main" />
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectId" id="1jZ3vWfb28fm2agALpM0yZIdK6K" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/br/com/java/padroesdeprojeto/cAbstractFactory" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="br.com.java.padroesdeprojeto.cAbstractFactory.impl" />
-      <recent name="br.com.java.padroesdeprojeto.cAbstractFactory" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\leand\Documents\IdeaProjects\java-training\src\br\com\java\padroesdeprojeto\cAbstractFactory" />
-      <recent name="C:\Users\leand\Documents\IdeaProjects\java-training\src\br\com\java\padroesdeprojeto" />
-      <recent name="C:\Users\leand\Documents\IdeaProjects\java-training\src\br\com\java\padroesdeprojeto\bFactory" />
-    </key>
-  </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="Application.StreamTest2">
-    <configuration name="Java8MathTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.java.java8.tutorialpoint.tests.Java8MathTester" />
-=======
+  <component name="ProjectId" id="1k6z2vVnTGR5I8fUUFrgebiPeJy" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -98,57 +30,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StreamTest5GerandoStreams">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StreamTest6Collectors2">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.java.padroesdeprojeto.cAbstractFactory.App" />
->>>>>>> 6abf0f7a93e4e1a39aed12af594fd4e5c2f5af91
+      <option name="MAIN_CLASS_NAME" value="br.com.java.padroesdeprojeto.dPrototype.App" />
       <module name="java-training" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.java.judgeonline.Sort" />
-      <module name="java-training" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.java.javacore.ZZKstreams.tests.StreamTest3" />
-      <module name="java-training" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-<<<<<<< HEAD
-    <configuration name="StreamTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.java.javacore.ZZKstreams.tests.StreamTest2" />
-      <module name="java-training" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="br.com.java.javacore.ZZKstreams.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-=======
     <configuration name="StreamTest4Reduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.java.javacore.ZZKstreams.tests.StreamTest4Reduce" />
       <module name="java-training" />
->>>>>>> 6abf0f7a93e4e1a39aed12af594fd4e5c2f5af91
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -160,111 +52,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StreamTest6Collectors1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.java.javacore.ZZKstreams.tests.StreamTest6Collectors1" />
+      <module name="java-training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamTest6Collectors2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.java.javacore.ZZKstreams.tests.StreamTest6Collectors2" />
+      <module name="java-training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
-<<<<<<< HEAD
-        <item itemvalue="Application.StreamTest2" />
-        <item itemvalue="Application.StreamTest" />
-        <item itemvalue="Application.Java8MessageTester" />
-        <item itemvalue="Application.Java8MathTester" />
-        <item itemvalue="Application.Java8SortTester" />
-=======
-=======
-        <item itemvalue="Application.StreamTest5GerandoStreams" />
->>>>>>> 2c4b2cd0dfe8b45c3b39a8e19ed17f0e6793887d
-        <item itemvalue="Application.Sort" />
-        <item itemvalue="Application.StreamTest4Reduce" />
+        <item itemvalue="Application.StreamTest6Collectors2" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Application.StreamTest3" />
-<<<<<<< HEAD
-        <item itemvalue="Application.Java8MessageTester" />
->>>>>>> 6abf0f7a93e4e1a39aed12af594fd4e5c2f5af91
-=======
->>>>>>> 2c4b2cd0dfe8b45c3b39a8e19ed17f0e6793887d
+        <item itemvalue="Application.StreamTest6Collectors1" />
+        <item itemvalue="Application.StreamTest4Reduce" />
+        <item itemvalue="Application.StreamTest5GerandoStreams" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="9e3b73d1-3c54-43f5-a1b9-9b344dd6146b" name="Default Changelist" comment="" />
-      <created>1604100090239</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1604100090239</updated>
-<<<<<<< HEAD
-      <workItem from="1604100093539" duration="2285000" />
-      <workItem from="1604150178567" duration="2042000" />
-      <workItem from="1604171163699" duration="464000" />
-=======
-      <workItem from="1604100093539" duration="2239000" />
-      <workItem from="1604603178436" duration="2004000" />
->>>>>>> 2c4b2cd0dfe8b45c3b39a8e19ed17f0e6793887d
-    </task>
-    <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-<<<<<<< HEAD
-    <state x="466" y="159" width="424" height="478" key="FileChooserDialogImpl" timestamp="1604171674854">
-      <screen x="0" y="38" width="1366" height="768" />
-    </state>
-    <state x="466" y="159" width="424" height="478" key="FileChooserDialogImpl/0.38.1366.768/1366.0.1280.720@0.38.1366.768" timestamp="1604171674854" />
-    <state width="1324" height="174" key="GridCell.Tab.0.bottom" timestamp="1604156086104">
-=======
-    <state x="163" y="0" key="#Project_Structure" timestamp="1604603207236">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="163" y="0" key="#Project_Structure/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1604603207236" />
-    <state x="466" y="159" width="424" height="478" key="FileChooserDialogImpl" timestamp="1604100143809">
->>>>>>> 2c4b2cd0dfe8b45c3b39a8e19ed17f0e6793887d
-      <screen x="0" y="38" width="1366" height="768" />
-    </state>
-    <state width="1324" height="174" key="GridCell.Tab.0.bottom/0.38.1366.768/1366.0.1280.720@0.38.1366.768" timestamp="1604156086104" />
-    <state width="1324" height="174" key="GridCell.Tab.0.center" timestamp="1604156086104">
-      <screen x="0" y="38" width="1366" height="768" />
-    </state>
-    <state width="1324" height="174" key="GridCell.Tab.0.center/0.38.1366.768/1366.0.1280.720@0.38.1366.768" timestamp="1604156086104" />
-    <state width="1324" height="174" key="GridCell.Tab.0.left" timestamp="1604156086104">
-      <screen x="0" y="38" width="1366" height="768" />
-    </state>
-    <state width="1324" height="174" key="GridCell.Tab.0.left/0.38.1366.768/1366.0.1280.720@0.38.1366.768" timestamp="1604156086104" />
-    <state width="1324" height="174" key="GridCell.Tab.0.right" timestamp="1604156086104">
-      <screen x="0" y="38" width="1366" height="768" />
-    </state>
-    <state width="1324" height="174" key="GridCell.Tab.0.right/0.38.1366.768/1366.0.1280.720@0.38.1366.768" timestamp="1604156086104" />
-    <state x="321" y="149" width="713" height="497" key="NewModule_or_Project.wizard" timestamp="1604171677104">
-      <screen x="0" y="38" width="1366" height="768" />
-    </state>
-<<<<<<< HEAD
-    <state x="321" y="149" width="713" height="497" key="NewModule_or_Project.wizard/0.38.1366.768/1366.0.1280.720@0.38.1366.768" timestamp="1604171677104" />
-=======
-    <state width="1324" height="174" key="GridCell.Tab.0.right/0.38.1366.768/1366.0.1280.720@0.38.1366.768" timestamp="1604101775752" />
-    <state x="389" y="97" width="587" height="534" key="find.popup" timestamp="1604609345832">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="389" y="97" width="587" height="534" key="find.popup/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1604609345832" />
->>>>>>> 2c4b2cd0dfe8b45c3b39a8e19ed17f0e6793887d
-    <state x="347" y="179" key="run.anything.popup" timestamp="1604100531801">
-      <screen x="0" y="38" width="1366" height="768" />
-    </state>
-    <state x="347" y="179" key="run.anything.popup/0.38.1366.768/1366.0.1280.720@0.38.1366.768" timestamp="1604100531801" />
   </component>
 </project>

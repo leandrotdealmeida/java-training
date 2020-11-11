@@ -10,6 +10,7 @@ public class Pessoa {
     private String nome;
     private int idade;
     private double salario;
+    private Genero genero;
 
     public Pessoa(String nome, int idade, double salario) {
         this.nome = nome;
@@ -17,17 +18,24 @@ public class Pessoa {
         this.salario = salario;
     }
 
+    public Pessoa(String nome, int idade, double salario, Genero genero) {
+        this.nome = nome;
+        this.idade = idade;
+        this.salario = salario;
+        this.genero = genero;
+    }
+
     public static List<Pessoa> bancoDePessoas() {
         return asList(
-                new Pessoa("Dev Japa", 22, 8000),
-                new Pessoa("Dev Leandro", 22, 3000),
-                new Pessoa("Dev Leandro", 22, 3000),
-                new Pessoa("Dev Almeida", 24, 4000),
-                new Pessoa("Dev Trovilho", 21, 9060),
-                new Pessoa("Dev Hulk", 35, 7200),
-                new Pessoa("Dev Spider", 44, 3300),
-                new Pessoa("Dev Joha", 54, 7800),
-                new Pessoa("Dev Batman", 20, 5500)
+                new Pessoa("Dev Japa", 22, 8000, Genero.MASCULINO),
+                new Pessoa("Dev Lia", 17, 3000, Genero.FEMININO),
+                new Pessoa("Dev Leandro", 22, 3000, Genero.MASCULINO),
+                new Pessoa("Dev Almeida", 24, 4000, Genero.MASCULINO),
+                new Pessoa("Dev Amanda", 21, 9060, Genero.FEMININO),
+                new Pessoa("Dev Hulk", 17, 7200, Genero.MASCULINO),
+                new Pessoa("Dev Spider", 44, 3300, Genero.MASCULINO),
+                new Pessoa("Dev Dao mia", 54, 7800, Genero.FEMININO),
+                new Pessoa("Dev Batman", 20, 5500, Genero.MASCULINO)
         );
     }
 
@@ -55,12 +63,14 @@ public class Pessoa {
         this.salario = salario;
     }
 
+    public Genero getGenero() {
+        return genero;
+    }
+
     @Override
     public String toString() {
         return "Pessoa{" +
                 "nome='" + nome + '\'' +
-                ", idade=" + idade +
-                ", salario=" + salario +
                 '}';
     }
 
