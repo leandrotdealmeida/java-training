@@ -12,6 +12,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -29,7 +30,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.StreamTest6Collectors2">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.java.padroesdeprojeto.dPrototype.App" />
       <module name="java-training" />
@@ -58,8 +59,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StreamTest6Collectors2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.java.javacore.ZZKstreams.tests.StreamTest6Collectors2" />
+      <module name="java-training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamTest6Collectors2" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.StreamTest6Collectors1" />
         <item itemvalue="Application.StreamTest4Reduce" />
