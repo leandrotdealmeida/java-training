@@ -30,7 +30,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StreamTest6Collectors2">
+  <component name="RunManager" selected="Application.StreamsParalelos1">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.java.padroesdeprojeto.dPrototype.App" />
       <module name="java-training" />
@@ -40,13 +40,6 @@
     </configuration>
     <configuration name="StreamTest4Reduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.java.javacore.ZZKstreams.tests.StreamTest4Reduce" />
-      <module name="java-training" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamTest5GerandoStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.java.javacore.ZZKstreams.tests.StreamTest5GerandoStreams" />
       <module name="java-training" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,14 +59,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StreamsParalelos1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.java.javacore.ZZLstreamsparalelos.tests.StreamsParalelos1" />
+      <module name="java-training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamsParalelos1" />
         <item itemvalue="Application.StreamTest6Collectors2" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.StreamTest6Collectors1" />
         <item itemvalue="Application.StreamTest4Reduce" />
-        <item itemvalue="Application.StreamTest5GerandoStreams" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/br/com/java/javacore/ZZLstreamsparalelos/tests/StreamsParalelos1.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
