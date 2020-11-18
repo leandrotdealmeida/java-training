@@ -17,7 +17,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1k6z2vVnTGR5I8fUUFrgebiPeJy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -30,37 +43,44 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StreamsParalelos1">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.java.padroesdeprojeto.dPrototype.App" />
+  <component name="RunManager" selected="Application.MminMaxTest">
+    <configuration name="BxxxValueNumberTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.java.number.BxxxValueNumberTest" />
       <module name="java-training" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest4Reduce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.java.javacore.ZZKstreams.tests.StreamTest4Reduce" />
+    <configuration name="HabsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.java.number.HabsTest" />
       <module name="java-training" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest6Collectors1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.java.javacore.ZZKstreams.tests.StreamTest6Collectors1" />
+    <configuration name="IceilFloorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.java.number.IceilFloorTest" />
       <module name="java-training" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTest6Collectors2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.java.javacore.ZZKstreams.tests.StreamTest6Collectors2" />
+    <configuration name="JrintTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.java.number.JrintTest" />
       <module name="java-training" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamsParalelos1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.java.javacore.ZZLstreamsparalelos.tests.StreamsParalelos1" />
+    <configuration name="LroundTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.java.number.LroundTest" />
+      <module name="java-training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MminMaxTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.java.number.MminMaxTest" />
       <module name="java-training" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,23 +88,27 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StreamsParalelos1" />
-        <item itemvalue="Application.StreamTest6Collectors2" />
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.StreamTest6Collectors1" />
-        <item itemvalue="Application.StreamTest4Reduce" />
+        <item itemvalue="Application.MminMaxTest" />
+        <item itemvalue="Application.LroundTest" />
+        <item itemvalue="Application.JrintTest" />
+        <item itemvalue="Application.IceilFloorTest" />
+        <item itemvalue="Application.HabsTest" />
       </list>
     </recent_temporary>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/br/com/java/javacore/ZZLstreamsparalelos/tests/StreamsParalelos1.java</url>
-          <line>36</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d8c296b-580f-4314-8e42-adf2acf9c439" name="Default Changelist" comment="" />
+      <created>1605552572357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605552572357</updated>
+      <workItem from="1605552579952" duration="63000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
