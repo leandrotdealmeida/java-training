@@ -29,7 +29,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/br/com/java/ia" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\leand\Documents\IdeaProjects\java-training\src\br\com\java\ia" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -43,37 +50,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MminMaxTest">
-    <configuration name="BxxxValueNumberTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.java.number.BxxxValueNumberTest" />
-      <module name="java-training" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HabsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.java.number.HabsTest" />
-      <module name="java-training" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IceilFloorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.java.number.IceilFloorTest" />
-      <module name="java-training" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JrintTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.java.number.JrintTest" />
-      <module name="java-training" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TestaMenorPreco">
     <configuration name="LroundTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.java.number.LroundTest" />
+      <module name="java-training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MazeBreadthFirstSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.java.ia.search.maze.MazeBreadthFirstSearch" />
+      <module name="java-training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MazeDepthFirstSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.java.ia.search.maze.MazeDepthFirstSearch" />
       <module name="java-training" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,13 +79,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestaMenorPreco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.java.estruturadados.busca.menorpreco.TestaMenorPreco" />
+      <module name="java-training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestaMenorPreco" />
+        <item itemvalue="Application.MazeDepthFirstSearch" />
+        <item itemvalue="Application.MazeBreadthFirstSearch" />
         <item itemvalue="Application.MminMaxTest" />
         <item itemvalue="Application.LroundTest" />
-        <item itemvalue="Application.JrintTest" />
-        <item itemvalue="Application.IceilFloorTest" />
-        <item itemvalue="Application.HabsTest" />
       </list>
     </recent_temporary>
   </component>
