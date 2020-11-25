@@ -50,7 +50,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Aula04">
+  <component name="RunManager" selected="Application.BIndexOfTest">
+    <configuration name="AStringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.java.estruturadados.externcode.AStringTest" />
+      <module name="java-training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Aula04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.java.estruturadados.loaine.vetor.Aula04" />
       <module name="java-training" />
@@ -58,22 +65,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MazeBreadthFirstSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.java.ia.search.maze.MazeBreadthFirstSearch" />
+    <configuration name="Aula05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.java.estruturadados.loaine.vetor.Aula05" />
       <module name="java-training" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MazeDepthFirstSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.java.ia.search.maze.MazeDepthFirstSearch" />
-      <module name="java-training" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MminMaxTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.java.number.MminMaxTest" />
+    <configuration name="BIndexOfTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.java.estruturadados.externcode.BIndexOfTest" />
       <module name="java-training" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BIndexOfTest" />
+        <item itemvalue="Application.AStringTest" />
+        <item itemvalue="Application.Aula05" />
         <item itemvalue="Application.Aula04" />
         <item itemvalue="Application.TestaMenorPreco" />
-        <item itemvalue="Application.MazeDepthFirstSearch" />
-        <item itemvalue="Application.MazeBreadthFirstSearch" />
-        <item itemvalue="Application.MminMaxTest" />
       </list>
     </recent_temporary>
   </component>
@@ -116,7 +116,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/br/com/java/estruturadados/loaine/vetor/Vetor.java</url>
-          <line>49</line>
+          <line>56</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
