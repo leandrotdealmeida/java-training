@@ -50,16 +50,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RunManager" selected="Application.FutureTest">
     <configuration name="AStringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.java.estruturadados.externcode.AStringTest" />
-      <module name="java-training" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Aula04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.java.estruturadados.loaine.vetor.Aula04" />
       <module name="java-training" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,6 +72,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FutureTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.java.javacore.ZZMCompletableFuture.test.FutureTest" />
+      <module name="java-training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.java.devsuperior.OO.course.application.Program" />
       <module name="java-training" />
@@ -88,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FutureTest" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.BIndexOfTest" />
         <item itemvalue="Application.AStringTest" />
         <item itemvalue="Application.Aula05" />
-        <item itemvalue="Application.Aula04" />
       </list>
     </recent_temporary>
   </component>
