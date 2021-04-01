@@ -14,13 +14,18 @@ public class Loja {
     public Future<Double> getPrecoAsync() {
         CompletableFuture<Double> precoFututo = new CompletableFuture<>();
         new Thread(() -> {
-            precoFututo.complete(calcularPreco());
+            try {
+                precoFututo.complete(calcularPreco());
+            }catch (Exception e) {
+                precoFututo.completeExceptionally(e);
+            }
         }).start();
         return precoFututo;
     }
 
     private double calcularPreco() {
         delay();
+        System.out.println(1/0);
         return ThreadLocalRandom.current().nextDouble() * 100;
     }
 

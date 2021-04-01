@@ -50,21 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LojaTest">
-    <configuration name="AStringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.java.estruturadados.externcode.AStringTest" />
-      <module name="java-training" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BIndexOfTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.java.estruturadados.externcode.BIndexOfTest" />
-      <module name="java-training" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Program (2)">
     <configuration name="FutureTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.java.javacore.ZZMCompletableFuture.test.FutureTest" />
       <module name="java-training" />
@@ -79,6 +65,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Program (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.java.devsuperior.aulao4.application.Program" />
+      <module name="java-training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.java.devsuperior.OO.quartos.application.Program" />
+      <module name="java-training" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.java.devsuperior.OO.course.application.Program" />
       <module name="java-training" />
@@ -88,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program (2)" />
+        <item itemvalue="Application.Program (1)" />
         <item itemvalue="Application.LojaTest" />
         <item itemvalue="Application.FutureTest" />
         <item itemvalue="Application.Program" />
-        <item itemvalue="Application.BIndexOfTest" />
-        <item itemvalue="Application.AStringTest" />
       </list>
     </recent_temporary>
   </component>
